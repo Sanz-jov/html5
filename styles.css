@@ -1,0 +1,33 @@
+/* Estilos para el body */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #009975;
+    color: black;}
+
+header {
+    background-color: #8bddca;
+    color: rgb(33, 33, 75);
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0px 2px 45px rgba(12, 2, 122, 0.69);
+    border: 3px solid rgba(12, 2, 122, 0.69);
+    margin: 60px 20px 60px 20px;
+    border-radius: 80px;}
+ 
+nav ul {
+    list-style-type: none;}
+
+nav ul li {
+    display: inline;}
+
+#AP-1 {
+    text-transform: uppercase;}
+
+#Contacto {
+    text-decoration-line: underline;
+    -moz-text-decoration-line: underline;}
+
+.estilos-generales {
+    text-align: center;}
